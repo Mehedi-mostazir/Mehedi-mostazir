@@ -20,7 +20,6 @@ Skills:    JS / HTML / CSS / C / C++ / Python
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi-mostazir&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mehedi-mostazir)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Mehedi-mostazir)  
 
