@@ -8,7 +8,8 @@ I'm Very Passionate about my Coding .
 Skills:    JS / HTML / CSS / C / C++ / Python
 
 - 🔭 I’m currently working on JS core Projects 
-- 🌱 I’m currently learning JS 
+- 🌱 I’m currently learning MERN
+  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mehedi-mostazir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehedi-mostazir-b7623622b/)  
