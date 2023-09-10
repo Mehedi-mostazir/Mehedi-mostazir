@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm MEHEDI MOSTAZIR
 #### I am a competitive Programmer,Web Developer & Graphic Designer
 ![I am a competitive Programmer,Web Developer & Graphic Designer]
-[<img src='(https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/349318930_1450615142144319_4137068859587568751_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=ab6a21&_nc_eui2=AeH87eJ4i0fZneDXmGTBf4Y75EDeZP8lI6PkQN5k_yUjo929_f98_UDqBnJBrlEgDeRVZOtZp8s4nZ9P_KzT9Hqb&_nc_ohc=MQ0X6UDRxAwAX8ieWIi&_nc_ht=scontent.fdac41-1.fna&oh=00_AfA8GsaNpcVGHyCoaTItdrx6LjM8RWSrNVj7L4f1VDvsBQ&oe=647632B7)' height='300px' weight='500px' >]
+[<img src='https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/349318930_1450615142144319_4137068859587568751_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=ab6a21&_nc_eui2=AeH87eJ4i0fZneDXmGTBf4Y75EDeZP8lI6PkQN5k_yUjo929_f98_UDqBnJBrlEgDeRVZOtZp8s4nZ9P_KzT9Hqb&_nc_ohc=MQ0X6UDRxAwAX8ieWIi&_nc_ht=scontent.fdac41-1.fna&oh=00_AfA8GsaNpcVGHyCoaTItdrx6LjM8RWSrNVj7L4f1VDvsBQ&oe=647632B7' height='300px' weight='500px' >]
 
 I'm Very Passionate about my Coding .
 
-Skills:    JS / HTML / CSS / C / C++ / Python
+Skills:    JS / Java / HTML / CSS / C / C++ / Python
 
 - 🔭 I’m currently working on JS core Projects 
 - 🌱 I’m currently learning MERN
