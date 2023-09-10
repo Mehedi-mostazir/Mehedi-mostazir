@@ -1,30 +1,34 @@
-### Hi there 👋, I'm MEHEDI MOSTAZIR
-#### I am a competitive Programmer,Web Developer & Graphic Designer
-![I am a competitive Programmer,Web Developer & Graphic Designer]
-[<img src='https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/349318930_1450615142144319_4137068859587568751_n.png?stp=dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=ab6a21&_nc_eui2=AeH87eJ4i0fZneDXmGTBf4Y75EDeZP8lI6PkQN5k_yUjo929_f98_UDqBnJBrlEgDeRVZOtZp8s4nZ9P_KzT9Hqb&_nc_ohc=MQ0X6UDRxAwAX8ieWIi&_nc_ht=scontent.fdac41-1.fna&oh=00_AfA8GsaNpcVGHyCoaTItdrx6LjM8RWSrNVj7L4f1VDvsBQ&oe=647632B7' height='300px' weight='500px' >]
+<div align="center"> <img width="1400px" height="200px"  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"> </div>
+<h1 align="center">Hi 👋, I'm MEHEDI MOSTAZIR</h1>
+<h3 align="center">I am a Competitive Programmer and Backend Developer from Bangladesh</h3>
 
-I'm Very Passionate about my Coding .
+<img align="right" alt="coding" width="300px" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
-Skills:    JS / Java / HTML / CSS / C / C++ / Python
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-mostazir&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-mostazir" /> </p>
 
-- 🔭 I’m currently working on JS core Projects 
-- 🌱 I’m currently learning MERN
-  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi-mostazir" alt="mehedi-mostazir" /></a> </p>
 
+- 🌱 I’m currently learning **Express Js, MongoDB and Java**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mehedi-mostazir)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mehedi-mostazir-b7623622b/)  
+- 💬 Ask me about **C , C++ , MERN**
 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+- 📫 How to reach me **mehedimostazir@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mehedi-mostazir)](https://github.com/ryo-ma/github-profile-trophy)
+- ⚡ Fun fact **I am Funny**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mehedi-mostazir)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mehedi-plabon-b7623622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-plabon-b7623622b" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/21mh1a05b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21mh1a05b3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mehedi04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehedi04" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/plabonmostazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="plabonmostazir" height="30" width="40" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehedi-mostazir&show_icons=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-mostazir&show_icons=true&locale=en&layout=compact" alt="mehedi-mostazir" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/Mehedi-mostazir)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi-mostazir&show_icons=true&locale=en" alt="mehedi-mostazir" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mehedi-mostazir)  
-
-![Profile views](https://gpvc.arturio.dev/Mehedi-mostazir)  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-mostazir&" alt="mehedi-mostazir" /></p>
