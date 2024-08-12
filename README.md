@@ -7,13 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-mostazir&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-mostazir" /> </p>
 
 
-- 🌱 I’m currently learning **Express Js, MongoDB and Java**
+- 🌱 I’m currently learning **Django and SQL**
 
-- 💬 Ask me about **C , C++ , MERN**
+- 💬 Ask me about **C , C++ , Python , Django **
 
 - 📫 How to reach me **mehedimostazir@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **introvert**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
