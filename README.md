@@ -1,51 +1,63 @@
-<div align="center"> <img width="1400px" height="200px"  src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif"> </div>
-<h1 align="center">Hi 👋, I'm MEHEDI MOSTAZIR</h1>
-<h3 align="center">I am a Competitive Programmer and Backend Developer from Bangladesh</h3>
+<!-- Header -->
+<h1 align="center">Hey 👋, I'm Mehedi Mostazir</h1>
+<h3 align="center">💻 Competitive Programmer | Problem Solver | CS Student</h3>
 
-<img align="right" alt="coding" width="350px" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-mostazir&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-mostazir" /> </p>
-
-
-- 🌱 I’m currently learning **Django and SQL**
-
-- 💬 Ask me about **C , C++ , Python , Django **
-
-- 📫 How to reach me **mehedimostazir@gmail.com**
-
-- ⚡ Fun fact **introvert**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mehedi-plabon-b7623622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehedi-plabon-b7623622b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/21mh1a05b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="21mh1a05b3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mehedi04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mehedi04" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/plabonmostazir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="plabonmostazir" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Writing+Efficient+Code+in+C%2B%2B+%26+Python+⚡;Exploring+Data+Structures+%26+Algorithms+📘;Learning+and+Building+Every+Day+🚀" alt="Typing Animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-mostazir&show_icons=true&locale=en&layout=compact" alt="mehedi-mostazir" />
+<!-- Stats Section -->
+<p align="center">
+  <img src="https://streak-stats.vercel.app/?user=mehedi-mostazir&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi-mostazir&show_icons=true&locale=en" alt="mehedi-mostazir" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-mostazir&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com/?user=mehedi-mostazir&" alt="mehedi-mostazir" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-mostazir&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<!-- About Section -->
+### 👨‍💻 About Me  
+- 🎯 Practicing **Data Structures & Algorithms** daily  
+- 🏆 Active on **Codeforces, LeetCode, and HackerRank**  
+- 💡 Skilled in **C++**, **Python**, and **C**  
+- 🌱 Exploring **OOP, STL, and algorithmic thinking**  
+- ⚡ Goal: Become a **Software Engineer with strong problem-solving skills**  
+- 📫 Reach me at **your_email_here**
+
+---
+
+<!-- Tools Section -->
+### 🧰 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,react,tailwind,django,mysql,git,github,vscode,linux" />
 </p>
 
 
+<!-- Coding Platforms 
+### 🏆 Coding Profiles
+<p align="center">
+  <a href="https://codeforces.com/profile/your_handle" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/your_handle" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/your_handle" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
 
+---    -->
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi-mostazir&show_icons=true&locale=en&layout=compact" alt="mehedi-mostazir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi-mostazir&show_icons=true&locale=en" alt="mehedi-mostazir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi-mostazir&" alt="mehedi-mostazir" /></p>
+<!-- Footer -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedi-mostazir&theme=github_dark" alt="Profile Summary" />
+</p>
