@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hey 👋, I'm Mehedi Mostazir</h1>
-<h3 align="center">💻 Competitive Programmer | Problem Solver | CS Student</h3>
+<h3 align="center">💻 Competitive Programmer | Problem Solver | Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Writing+Efficient+Code+in+C%2B%2B+%26+Python+⚡;Exploring+Data+Structures+%26+Algorithms+📘;Learning+and+Building+Every+Day+🚀" alt="Typing Animation" />
@@ -25,12 +25,11 @@
 
 <!-- About Section -->
 ### 👨‍💻 About Me  
-- 🎯 Practicing **Data Structures & Algorithms** daily  
-- 🏆 Active on **Codeforces, LeetCode, and HackerRank**  
+- 🎯 Practicing **Data Structures & Algorithms** daily <!--                                          - 🏆 Active on **Codeforces, LeetCode, and HackerRank**    -->
 - 💡 Skilled in **C++**, **Python**, and **C**  
 - 🌱 Exploring **OOP, STL, and algorithmic thinking**  
 - ⚡ Goal: Become a **Software Engineer with strong problem-solving skills**  
-- 📫 Reach me at **your_email_here**
+- 📫 Reach me at Mehedimostazir@gmail.com
 
 ---
 
