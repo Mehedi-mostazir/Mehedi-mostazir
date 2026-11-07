@@ -13,14 +13,6 @@
   <img src="https://streak-stats.vercel.app/?user=mehedi-mostazir&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehedi-mostazir&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi-mostazir&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 <!-- About Section -->
@@ -29,14 +21,13 @@
 - 💡 Skilled in **C++**, **Python**, and **C**  
 - 🌱 Exploring **OOP, STL, and algorithmic thinking**  
 - ⚡ Goal: Become a **Software Engineer with strong problem-solving skills**  
-- 📫 Reach me at Mehedimostazir@gmail.com
 
 ---
 
 <!-- Tools Section -->
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,react,tailwind,django,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,tailwind,django,mysql,git,github,vscode" />
 </p>
 
 
