@@ -10,9 +10,8 @@
 
 <!-- Stats Section -->
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=mehedi-mostazir&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi-mostazir&theme=github-compact&hide_border=true" alt="Activity Graph" />
 </p>
-
 ---
 
 <!-- About Section -->
